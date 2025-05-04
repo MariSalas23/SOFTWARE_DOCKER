@@ -22,7 +22,7 @@ Crear build context:
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/5.jpg)
 
 Crear app.py, requirements.txt y Dockerfile:
-![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/6.jpg)
+![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/6.png)
 
 Crear imagen y verificar su creación:
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/7.jpg)
