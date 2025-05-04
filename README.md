@@ -9,60 +9,76 @@ Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérre
 ### hello
 
 Crear build context y Dockerfile:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/1.jpg)
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/3.jpg)
 
 Crear imagen y verificar su creación:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/2.jpg)
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/4.jpg)
 
 ### friendlyhello
 
 Crear build context:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/5.jpg)
 
 Crear app.py, requirements.txt y Dockerfile:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/6.png)
 
 Crear imagen y verificar su creación:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/7.jpg)
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/8.png)
 
 Arrancar contenedor y probar la aplicación:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/9.png)
 
 Crear docker-compose.yaml:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/10.jpg)
 
 Modificar docker-compose.yaml:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/11.jpg)
 
 Arrancar esta nueva aplicación, pero añadiendo varios servicios web:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/12.jpg)
 
 Ver los contenedores disponibles:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/13.jpg)
 
 Probar la aplicación:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/14.png)
 
 ### Compartir imágenes
 
 Cuenta en Docker:
-![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/15.jpg)
+
+![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/15.png)
 
 Login:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/16.jpg)
 
 Crear imagen con 3 versiones:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/17.jpg)
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/18.jpg)
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/19.jpg)
 
 Verificar la creación:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/20.jpg)
 
 Push:
+
 ![Imagen](https://github.com/MariSalas23/SOFTWARE_DOCKER/blob/main/Images/21.png)
 
 ### Ejercicio 1
